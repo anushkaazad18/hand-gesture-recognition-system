@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🖐 Real-Time Hand Gesture Recognition System
 
 > **B.Tech Final-Year AI/ML Portfolio Project**  
@@ -238,7 +238,7 @@ Typical results on a balanced 300-samples-per-class dataset:
 ## License
 
 MIT — free for academic and personal use.  Cite this project if you use it in your coursework or research.
-=======
+
 # hand-gesture-recognition-system
 Real-time Hand Gesture Recognition System using Python, OpenCV, MediaPipe, and Machine Learning.
->>>>>>> 9647bf45deab8d9e53480fedb7d166a5dcaecd4c
+
