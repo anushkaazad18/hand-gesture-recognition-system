@@ -1,5 +1,5 @@
 
-# 🖐 Real-Time Hand Gesture Recognition System
+# Real-Time Hand Gesture Recognition System
 
 > **B.Tech Final-Year AI/ML Portfolio Project**  
 > Python · OpenCV · MediaPipe · TensorFlow/Keras · Streamlit
